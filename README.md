@@ -3,11 +3,16 @@
 This project entails 106,988 records of healthcare datasets. It contains patients medical appointments and whether they showed up or not
 alongside with strength and weakness over a long period of time
 ## Variables
-Gender, Age ---demographics
-ScheduledDay, AppointmentDay, DateDiff  ---- scheduling info (time between booking & appointment)
-Scholarship, Hypertension, Diabetes, Alcoholism, Handicap  ---- health & social conditions
-SMSReceived ----- reminder message indicator
-Showed_up ----- target variable (whether the patient attended the appointment)
+Gender, Age ---demographics  
+
+ScheduledDay, AppointmentDay, DateDiff  ---- scheduling info (time between booking & appointment)  
+
+Scholarship, Hypertension, Diabetes, Alcoholism, Handicap  ---- health & social conditions  
+
+SMSReceived ----- reminder message indicator  
+
+Showed_up ----- target variable (whether the patient attended the appointment)  
+
 ## Business Question
 Possible Business Questions This Dataset Can Answer:
 ## Attendance Prediction
