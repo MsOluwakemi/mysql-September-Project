@@ -2,7 +2,7 @@
 ## Introduction
 This project entails 106,988 records of healthcare datasets. It contains patients medical appointments and whether they showed up or not
 alongside with strength and weakness over a long period of time
-## Varibles
+## Variables
 Gender, Age ---- demographics
 ScheduledDay, AppointmentDay, DateDiff  --- scheduling info (time between booking & appointment)
 Scholarship, Hypertension, Diabetes, Alcoholism, Handicap  --- health & social conditions
@@ -27,4 +27,4 @@ Does receiving an SMS reminder improve attendance rates?
 How effective are reminders across different age groups?
 ## Technology Used
 this is sql project. a single query technique was used to run the query coupled with aggregate function which was then used 
-to aggregate large rows of dat into a small rows of data given the information we needd
+to aggregate large rows of dat into a small rows of data given the information we need
